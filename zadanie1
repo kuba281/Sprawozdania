@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="dokument">
+    <meta name="author" content="Jakub Izdebski">
+    
+    <title>Strona</title>
+    
+</head>
+<body>
+
+    <h1>Strona</h1>
+
+</body>
+</html>
+
+<!--DOCTYPE inforumje stronę że jest używany HTML5
+sekcja head - zawiera informacje które nie są wyświetlane na stronie
+Meta tagi to specjalne znaczniki HTML, służą do pozycjonowania-->
