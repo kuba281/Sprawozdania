@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Listy i tabele w praktyce</title>
+    
+</head>
+<body>
+    <font size="4">
+<h1>Listy</h1>
+<h2>Lista nieuporządkowane</h2>
+    <ul>
+        <li>Łatwość nauki i obsługi</li>
+        <li>Uniwersalna kompatybilność</li>
+        <li>Szybkie ładowanie stron:</li>
+        <li>Oddzielenie treści od prezentacji</li>
+        <li>Przyjazność dla SEO:</li>
+    </ul>
+
+<h2>Lista uporządkowana</h2>
+<ol>
+    <li>Planowanie – Określenie celu strony, jej struktury oraz grupy docelowej użytkowników.</li>
+    <li>Projektowanie – Tworzenie makiet (wireframe) i estetycznego wyglądu strony, uwzględniając UX/UI.</li>
+    <li>Kodowanie – Przekształcenie projektu w rzeczywisty kod HTML, CSS oraz JavaScript, który definiuje funkcjonalność strony.</li>
+    <li>Testowanie – Sprawdzenie strony pod kątem błędów, kompatybilności i wydajności na różnych urządzeniach i przeglądarkach.</li>
+    <li>Publikacja i utrzymanie – Opublikowanie strony na serwerze oraz regularna aktualizacja i optymalizacja treści i funkcji.</li>
+</ol>
+
+<h2>Lista definicji</h2>
+<dl>
+    <dt>DOCTYPE</dt>
+    <dd>Deklaracja DOCTYPE informuje przeglądarkę o wersji HTML, którą należy interpretować. </dd>
+
+    <dt>Tag</dt>
+    <dd>Tag to element HTML, który służy do oznaczenia fragmentu treści w dokumencie. Zazwyczaj tagi są otoczone nawiasami kątowymi.</dd>
+
+    <dt>Atrybut</dt>
+    <dd>Atrybuty są dodatkowymi informacjami przypisanymi do tagów. Określają one różne właściwości elementu, takie jak kolor, identyfikator czy styl. </dd>
+
+    <dt>Element</dt>
+    <dd>Element HTML składa się z tagu otwierającego, treści oraz tagu zamykającego. Przykład elementu:</dd>
+
+    <dt>Link</dt>
+    <dd>Link (element <code>&lt;a&gt;</code>) umożliwia połączenie z innymi stronami internetowymi lub zasobami.</dd>
+</dl>
+
+<h1>Tabela</h1>
+<table>
+
+
+</table>
+</body>
+</htm
